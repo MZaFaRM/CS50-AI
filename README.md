@@ -1,2 +1,2 @@
-# CS50-AI
-My entire repository for the CS50 AI course
+# CS50AI
+My entire repository for the CS50AI course
